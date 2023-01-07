@@ -6,6 +6,8 @@ This implementation first tries to extract a low dimensional manifold from the i
 
 This source code forms the basis for our [Distance metric learning based on structural neighborhoods for dimensionality reduction and classification performance improvement](https://arxiv.org/abs/1902.03453). When using the code, please make sure to refer to it as follows:
 
+ ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
+
 
 @misc{https://doi.org/10.48550/arxiv.1902.03453,
   doi = {10.48550/ARXIV.1902.03453},
