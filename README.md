@@ -28,4 +28,4 @@ This source code forms the basis for our [Distance metric learning based on stru
 
 ## Execution
 
-In order to run this code you have to add the [DR Toolbox](https://lvdmaaten.github.io/drtoolbox/) to the matlab path.
+In order to run this code you have to add the [DR Toolbox](https://lvdmaaten.github.io/drtoolbox/) to the Matlab path.
