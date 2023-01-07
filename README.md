@@ -26,6 +26,9 @@ This source code forms the basis for our [Distance metric learning based on stru
 }
 ```
 
+## Requirements
+The code was tested with Matlab 2017a, 64 Bit under Windows 10 using Intel® Core™ i7-2670QM 2.20 GHz with 8 GB RAM.
+
 ## Execution
 
 In order to run this code you have to add the [DR Toolbox](https://lvdmaaten.github.io/drtoolbox/) to the Matlab path.
