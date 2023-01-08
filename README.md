@@ -31,4 +31,4 @@ The code was tested with Matlab 2017a, 64 Bit under Windows 10 using Intel® Cor
 
 ## Execution
 
-In order to run this code you have to add the [DR Toolbox](https://lvdmaaten.github.io/drtoolbox/) to the Matlab path. Then, you can execut the program by running the main.m file.
+In order to run this code you have to add the [DR Toolbox](https://lvdmaaten.github.io/drtoolbox/) to the Matlab path. Then, you can execut the program by running the  _main.m_** file.
