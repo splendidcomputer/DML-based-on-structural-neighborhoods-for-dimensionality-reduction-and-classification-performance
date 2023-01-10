@@ -27,7 +27,7 @@ This source code forms the basis for our [Distance metric learning based on stru
 ```
 
 ## Requirements
-The code was tested with Matlab 2017a, 64 Bit under Windows 10 using Intel® Core™ i7-2670QM 2.20 GHz with 8 GB RAM.
+The code was tested with Matlab R2017a, 64 Bit under Windows 10 using Intel® Core™ i7-2670QM 2.20 GHz with 8 GB RAM.
 
 ## Execution
 
