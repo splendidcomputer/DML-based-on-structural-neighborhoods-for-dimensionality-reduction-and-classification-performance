@@ -45,8 +45,8 @@ python/
 
 2. **Create a virtual environment** (recommended):
    ```bash
-   python -m venv dml_env
-   source dml_env/bin/activate  # On Windows: dml_env\Scripts\activate
+   python -m venv .venv 
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
 3. **Install dependencies**:
