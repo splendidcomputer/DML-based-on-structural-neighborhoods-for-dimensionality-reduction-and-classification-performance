@@ -425,10 +425,10 @@ class ComprehensiveDMLEvaluator:
             
             plt.tight_layout()
             
-            # Save plot
-            plot_filename = f"Mean_Results_{dr_method}_Data_{dataset_name}.png"
+            # Save plot as SVG (vector graphics for academic format)
+            plot_filename = f"Mean_Results_{dr_method}_Data_{dataset_name}.svg"
             plot_path = os.path.join(plots_dir, plot_filename)
-            plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+            plt.savefig(plot_path, format='svg', bbox_inches='tight')
             plt.close()
             
             if self.verbose:
