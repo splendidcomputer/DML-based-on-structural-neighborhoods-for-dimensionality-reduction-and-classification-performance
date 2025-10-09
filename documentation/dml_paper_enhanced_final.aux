@@ -49,36 +49,81 @@
 \citation{bs2025distance}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Algorithm Description}{6}{subsection.3.3}\protected@file@percent }
 \@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces BDML-MLE Algorithm}}{6}{algorithm.1}\protected@file@percent }
-\citation{gruffaz2025riemannian}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experimental Results}{7}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Experimental Setup}{7}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.1}Datasets}{7}{subsubsection.4.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.2}Baseline Methods}{7}{subsubsection.4.1.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Dataset characteristics and imbalance properties.}}{8}{table.caption.2}\protected@file@percent }
+\newlabel{tab:datasets}{{1}{8}{Dataset characteristics and imbalance properties}{table.caption.2}{}}
 \citation{weinberger2009distance}
 \citation{goldberger2005neighbourhood}
 \citation{xu2025deep}
 \citation{gruffaz2025riemannian}
 \citation{hu2025broad}
-\@writefile{toc}{\contentsline {section}{\numberline {4}Experimental Results}{7}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Experimental Setup}{7}{subsection.4.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Performance comparison heatmap showing classification accuracy across different datasets and methods. BDML-MLE consistently outperforms baseline methods across diverse datasets.}}{8}{figure.caption.2}\protected@file@percent }
-\newlabel{fig:performance_heatmap}{{2}{8}{Performance comparison heatmap showing classification accuracy across different datasets and methods. BDML-MLE consistently outperforms baseline methods across diverse datasets}{figure.caption.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Performance on imbalanced datasets showing F1-score and AUC metrics. BDML-MLE maintains robust performance even with severe class imbalance.}}{9}{figure.caption.3}\protected@file@percent }
-\newlabel{fig:imbalanced_handling}{{3}{9}{Performance on imbalanced datasets showing F1-score and AUC metrics. BDML-MLE maintains robust performance even with severe class imbalance}{figure.caption.3}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Imbalanced Data Handling}{9}{subsection.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Computational Complexity Analysis}{9}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Ablation Study}{9}{subsection.4.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Computational complexity comparison showing training time vs. dataset size for different methods. BDML-MLE maintains efficiency while achieving superior performance.}}{10}{figure.caption.4}\protected@file@percent }
-\newlabel{fig:computational_complexity}{{4}{10}{Computational complexity comparison showing training time vs. dataset size for different methods. BDML-MLE maintains efficiency while achieving superior performance}{figure.caption.4}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Ablation study results showing the contribution of each component to overall performance.}}{10}{table.caption.5}\protected@file@percent }
-\newlabel{tab:ablation}{{1}{10}{Ablation study results showing the contribution of each component to overall performance}{table.caption.5}{}}
+\citation{pan2025metric}
+\citation{duan2025discriminative}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.3}Evaluation Protocol}{10}{subsubsection.4.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Comprehensive Performance Analysis}{10}{subsection.4.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Comprehensive performance heatmap showing classification accuracy across all datasets and methods. BDML-MLE variants consistently achieve superior performance, with LLE+BDML-MLE showing exceptional results across diverse data characteristics.}}{11}{figure.caption.3}\protected@file@percent }
+\newlabel{fig:performance_heatmap}{{2}{11}{Comprehensive performance heatmap showing classification accuracy across all datasets and methods. BDML-MLE variants consistently achieve superior performance, with LLE+BDML-MLE showing exceptional results across diverse data characteristics}{figure.caption.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Comprehensive accuracy comparison using k-NN classifier (d,r) indicating optimal dimensionality and method rank.}}{11}{table.caption.4}\protected@file@percent }
+\newlabel{tab:comprehensive_results}{{2}{11}{Comprehensive accuracy comparison using k-NN classifier (d,r) indicating optimal dimensionality and method rank}{table.caption.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Manifold Learning Component Analysis}{12}{subsection.4.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Sensitivity analysis using k-NN classifier showing robustness across different manifold learning techniques.}}{12}{table.caption.5}\protected@file@percent }
+\newlabel{tab:sensitivity_analysis}{{3}{12}{Sensitivity analysis using k-NN classifier showing robustness across different manifold learning techniques}{table.caption.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Imbalanced Data Handling Analysis}{12}{subsection.4.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Comprehensive imbalanced data analysis: (a) F1-score vs. imbalance ratio, (b) Precision-Recall curves for highly imbalanced KDD dataset, (c) Sensitivity vs. Specificity trade-off analysis, (d) Minority class detection rates across different methods.}}{13}{figure.caption.6}\protected@file@percent }
+\newlabel{fig:imbalanced_handling}{{3}{13}{Comprehensive imbalanced data analysis: (a) F1-score vs. imbalance ratio, (b) Precision-Recall curves for highly imbalanced KDD dataset, (c) Sensitivity vs. Specificity trade-off analysis, (d) Minority class detection rates across different methods}{figure.caption.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Detailed confusion matrix analysis for KDD dataset (highest imbalance ratio = 28.03) using LLE+BDML-MLE.}}{13}{table.caption.7}\protected@file@percent }
+\newlabel{tab:kdd_confusion}{{4}{13}{Detailed confusion matrix analysis for KDD dataset (highest imbalance ratio = 28.03) using LLE+BDML-MLE}{table.caption.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Classifier-Specific Performance Analysis}{14}{subsection.4.5}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Cross-classifier performance comparison showing method generalizability.}}{14}{table.caption.8}\protected@file@percent }
+\newlabel{tab:classifier_comparison}{{5}{14}{Cross-classifier performance comparison showing method generalizability}{table.caption.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Computational Efficiency Analysis}{15}{subsection.4.6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Comprehensive computational analysis: (a) Training time vs. dataset size showing linear scalability, (b) Memory usage comparison across methods, (c) Per-sample inference time analysis, (d) Speedup analysis for sim-k-NN vs. traditional k-NN classification.}}{15}{figure.caption.9}\protected@file@percent }
+\newlabel{fig:computational_complexity}{{4}{15}{Comprehensive computational analysis: (a) Training time vs. dataset size showing linear scalability, (b) Memory usage comparison across methods, (c) Per-sample inference time analysis, (d) Speedup analysis for sim-k-NN vs. traditional k-NN classification}{figure.caption.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Detailed computational time analysis (seconds per test sample) across different classifiers and datasets.}}{15}{table.caption.10}\protected@file@percent }
+\newlabel{tab:computational_time}{{6}{15}{Detailed computational time analysis (seconds per test sample) across different classifiers and datasets}{table.caption.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.7}Comprehensive Ablation Study}{16}{subsection.4.7}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Detailed ablation study showing individual component contributions across representative datasets.}}{16}{table.caption.11}\protected@file@percent }
+\newlabel{tab:detailed_ablation}{{7}{16}{Detailed ablation study showing individual component contributions across representative datasets}{table.caption.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.8}Dimensionality Analysis}{17}{subsection.4.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces Optimal dimensionality analysis showing best performing dimensions for each dataset-method combination.}}{17}{table.caption.12}\protected@file@percent }
+\newlabel{tab:dimensionality_analysis}{{8}{17}{Optimal dimensionality analysis showing best performing dimensions for each dataset-method combination}{table.caption.12}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces Ablation study results showing the contribution of each component to overall performance.}}{18}{table.caption.13}\protected@file@percent }
+\newlabel{tab:ablation}{{9}{18}{Ablation study results showing the contribution of each component to overall performance}{table.caption.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.9}Ablation Study}{18}{subsection.4.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.10}Statistical Significance Analysis}{18}{subsection.4.10}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces Statistical significance analysis using paired t-tests (p-values) comparing BDML-MLE variants with baselines.}}{18}{table.caption.14}\protected@file@percent }
+\newlabel{tab:statistical_significance}{{10}{18}{Statistical significance analysis using paired t-tests (p-values) comparing BDML-MLE variants with baselines}{table.caption.14}{}}
+\citation{weinberger2009distance}
+\citation{goldberger2005neighbourhood}
 \citation{xu2025deep}
 \citation{gruffaz2025riemannian}
 \citation{hu2025broad}
 \citation{duan2025discriminative}
 \citation{pan2025metric}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Comparison with State-of-the-Art Methods}{11}{subsection.4.5}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Comprehensive comparison with state-of-the-art methods across multiple benchmark datasets.}}{11}{table.caption.6}\protected@file@percent }
-\newlabel{tab:sota_comparison}{{2}{11}{Comprehensive comparison with state-of-the-art methods across multiple benchmark datasets}{table.caption.6}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{11}{section.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Limitations and Future Work}{12}{subsection.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{13}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.11}Comparison with State-of-the-Art Methods (2024-2025)}{19}{subsection.4.11}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces Comprehensive comparison with recent state-of-the-art methods including 2024-2025 publications.}}{19}{table.caption.15}\protected@file@percent }
+\newlabel{tab:sota_comparison}{{11}{19}{Comprehensive comparison with recent state-of-the-art methods including 2024-2025 publications}{table.caption.15}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.12}Visual Analysis and Data Distribution}{20}{subsection.4.12}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Data distribution visualization comparing original space, DLSR transformation, and BDML-MLE transformation across representative datasets. BDML-MLE achieves superior class separation while preserving local structure.}}{20}{figure.caption.16}\protected@file@percent }
+\newlabel{fig:data_distribution}{{5}{20}{Data distribution visualization comparing original space, DLSR transformation, and BDML-MLE transformation across representative datasets. BDML-MLE achieves superior class separation while preserving local structure}{figure.caption.16}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.13}Cross-Dataset Generalization Study}{21}{subsection.4.13}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces Cross-dataset transfer learning results showing BDML-MLE generalization capabilities.}}{21}{table.caption.17}\protected@file@percent }
+\newlabel{tab:transfer_learning}{{12}{21}{Cross-dataset transfer learning results showing BDML-MLE generalization capabilities}{table.caption.17}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.14}Failure Analysis and Method Limitations}{22}{subsection.4.14}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {13}{\ignorespaces Detailed failure analysis showing challenging cases and method limitations.}}{22}{table.caption.18}\protected@file@percent }
+\newlabel{tab:failure_analysis}{{13}{22}{Detailed failure analysis showing challenging cases and method limitations}{table.caption.18}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.15}Computational Complexity Analysis}{22}{subsection.4.15}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {14}{\ignorespaces Comprehensive computational complexity comparison including memory requirements.}}{23}{table.caption.19}\protected@file@percent }
+\newlabel{tab:complexity_analysis}{{14}{23}{Comprehensive computational complexity comparison including memory requirements}{table.caption.19}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.16}Robustness Analysis}{23}{subsection.4.16}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {15}{\ignorespaces Robustness evaluation under noise, outliers, and missing data conditions.}}{24}{table.caption.20}\protected@file@percent }
+\newlabel{tab:robustness_analysis}{{15}{24}{Robustness evaluation under noise, outliers, and missing data conditions}{table.caption.20}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{24}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Limitations and Future Work}{26}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{26}{section.6}\protected@file@percent }
 \bibstyle{elsarticle-num}
 \bibcite{bellet2013survey}{{1}{}{{}}{{}}}
 \bibcite{xu2025deep}{{2}{}{{}}{{}}}
@@ -103,4 +148,4 @@
 \bibcite{belhumeur1997eigenfaces}{{21}{}{{}}{{}}}
 \bibcite{he2009learning}{{22}{}{{}}{{}}}
 \providecommand\NAT@force@numbers{}\NAT@force@numbers
-\gdef \@abspage@last{16}
+\gdef \@abspage@last{31}
