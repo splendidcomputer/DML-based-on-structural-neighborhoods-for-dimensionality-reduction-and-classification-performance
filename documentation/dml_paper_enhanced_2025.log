@@ -1,0 +1,980 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.8)  9 OCT 2025 12:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dml_paper_enhanced_2025.tex
+(./dml_paper_enhanced_2025.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count187
+\l__pdf_internal_box=\box51
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+)
+\@bls=\dimen140
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+\c@tnote=\count197
+\c@fnote=\count198
+\c@cnote=\count199
+\c@ead=\count266
+\c@author=\count267
+\@eadauthor=\toks18
+\c@affn=\count268
+\absbox=\box52
+\elsarticlehighlightsbox=\box53
+\elsarticlegrabsbox=\box54
+\keybox=\box55
+\Columnwidth=\dimen144
+\space@left=\dimen145
+\els@boxa=\box56
+\els@boxb=\box57
+\leftMargin=\dimen146
+\@enLab=\toks19
+\@sep=\skip50
+\@@sep=\skip51
+
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count269
+)
+\splwrite=\write3
+\openout3 = `dml_paper_enhanced_2025.spl'.
+
+\appnamewidth=\dimen147
+)
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   1
+l.9 \modulolinenumbers
+                      [5]
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Argument of \reserved@b has an extra }.
+<inserted text> 
+                \par 
+l.9 \modulolinenumbers
+                      [5]
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\ifx \@nnil ##1\relax \else \ifx \@nnil ##1\@nnil \else \noexpand \@onefilewit
+hoptions \ETC.
+! Paragraph ended before \reserved@b was complete.
+<to be read again> 
+                   \par 
+l.9 \modulolinenumbers
+                      [5]
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+linen\protect \hook_use:n {env/figure/before}\def \def \@onefilewithoptions \ET
+C.
+! Paragraph ended before \reserved@b was complete.
+<to be read again> 
+                   \par 
+l.9 \modulolinenumbers
+                      [5]
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Undefined control sequence.
+\@nnil ->\@nil 
+               
+l.9 \modulolinenumbers
+                      [5]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \modulolinenumbers
+                      [5]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<bdml_mle_improved_flowchart.pdf, id=1, 860.01299pt x 1149.09305pt>
+File: bdml_mle_improved_flowchart.pdf Graphic file (type pdf)
+<use bdml_mle_improved_flowchart.pdf>
+Package pdftex.def Info: bdml_mle_improved_flowchart.pdf  used on input line 9.
+
+(pdftex.def)             Requested size: 345.0pt x 460.96164pt.
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \modulolinenumbers
+                      [5]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.9 \modulolinenumbers
+                      [5]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.9 \modulolinenumbers
+                      [5]
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.9 \modulolinenumbers
+                      [5]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \modulolinenumbers
+                      [5]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.9 \modulolinenumbers
+                      [5]
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \modulolinenumbers
+                      [5]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \modulolinenumbers 
+                                   
+l.9 \modulolinenumbers
+                      [5]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen148
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count275
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip16
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks21
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks22
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks23
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen157
+\lightrulewidth=\dimen158
+\cmidrulewidth=\dimen159
+\belowrulesep=\dimen160
+\belowbottomsep=\dimen161
+\aboverulesep=\dimen162
+\abovetopsep=\dimen163
+\cmidrulesep=\dimen164
+\cmidrulekern=\dimen165
+\defaultaddspace=\dimen166
+\@cmidla=\count282
+\@cmidlb=\count283
+\@aboverulesep=\dimen167
+\@belowrulesep=\dimen168
+\@thisruleclass=\count284
+\@lastruleclass=\count285
+\@thisrulewidth=\dimen169
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count286
+\multirow@dima=\skip58
+\bigstrutjot=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box60
+\extrarowheight=\dimen172
+\NC@list=\toks25
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count287
+\LTcapwidth=\dimen173
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@gbox=\box66
+\LT@cols=\count288
+\LT@rows=\count289
+\c@LT@tables=\count290
+\c@LT@chunks=\count291
+\LT@p@ftn=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count292
+\float@exts=\toks27
+\float@box=\box67
+\@float@everytoks=\toks28
+\@floatcapt=\box68
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen174
+\captionmargin=\dimen175
+\caption@leftmargin=\dimen176
+\caption@rightmargin=\dimen177
+\caption@width=\dimen178
+\caption@indent=\dimen179
+\caption@parindent=\dimen180
+\caption@hangindent=\dimen181
+Package caption Info: elsarticle document class detected.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-elsarticle.sto
+File: caption-elsarticle.sto 2020/08/22 v2.0 Adaption of the caption package to
+ the elsarticle document class (AR)
+))
+\c@caption@flags=\count293
+\c@continuedfloat=\count294
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count295
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count296
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks29
+\c@algorithm=\count297
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count298
+\c@ALC@line=\count299
+\c@ALC@rem=\count300
+\c@ALC@depth=\count301
+\ALC@tlm=\skip65
+\algorithmicindent=\skip66
+)
+No file dml_paper_enhanced_2025.aux.
+\openout1 = `dml_paper_enhanced_2025.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count302
+\scratchdimen=\dimen182
+\scratchbox=\box69
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen183
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks31
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./bdml_mle_improved_flowch
+art.pdf>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (34.4302pt too wide) has occurred while \output is active
+\OT1/cmr/m/it/8 Preprint submitted to IEEE Transactions on Pattern Analysis and
+ Machine Intelligence October 9, 2025
+ []
+
+
+Overfull \hbox (2.22221pt too wide) has occurred while \output is active
+[] 
+ []
+
+[2
+
+]
+! Undefined control sequence.
+l.48 \linenumbers
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `bellet2013survey' on page 3 undefined on inpu
+t line 53.
+
+
+Package natbib Warning: Citation `xu2025deep' on page 3 undefined on input line
+ 55.
+
+
+Package natbib Warning: Citation `gruffaz2025riemannian' on page 3 undefined on
+ input line 55.
+
+
+Package natbib Warning: Citation `hu2025broad' on page 3 undefined on input lin
+e 55.
+
+
+Package natbib Warning: Citation `roweis2000nonlinear' on page 3 undefined on i
+nput line 57.
+
+
+Package natbib Warning: Citation `tenenbaum2000global' on page 3 undefined on i
+nput line 57.
+
+[3]
+<dlsr_algorithm_flowchart.pdf, id=134, 1000.21678pt x 711.45486pt>
+File: dlsr_algorithm_flowchart.pdf Graphic file (type pdf)
+<use dlsr_algorithm_flowchart.pdf>
+Package pdftex.def Info: dlsr_algorithm_flowchart.pdf  used on input line 61.
+(pdftex.def)             Requested size: 345.0pt x 245.3979pt.
+
+Runaway argument?
+{figure> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.65 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Package natbib Warning: Citation `domeniconi2002locally' on page 4 undefined on
+ input line 71.
+
+
+Package natbib Warning: Citation `kertesz2025survey' on page 4 undefined on inp
+ut line 71.
+
+
+Package natbib Warning: Citation `yang2006efficient' on page 4 undefined on inp
+ut line 73.
+
+
+Package natbib Warning: Citation `shang2024few' on page 4 undefined on input li
+ne 73.
+
+
+Package natbib Warning: Citation `weinberger2008fast' on page 4 undefined on in
+put line 75.
+
+
+Package natbib Warning: Citation `hu2025broad' on page 4 undefined on input lin
+e 75.
+
+
+Package natbib Warning: Citation `pan2025metric' on page 4 undefined on input l
+ine 77.
+
+
+Package natbib Warning: Citation `gruffaz2025riemannian' on page 4 undefined on
+ input line 87.
+
+
+Package natbib Warning: Citation `bs2025distance' on page 4 undefined on input 
+line 91.
+
+
+Package natbib Warning: Citation `weinberger2009distance' on page 4 undefined o
+n input line 93.
+
+
+Package natbib Warning: Citation `goldberger2005neighbourhood' on page 4 undefi
+ned on input line 93.
+
+
+Package natbib Warning: Citation `xu2025deep' on page 4 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `duan2025discriminative' on page 4 undefined o
+n input line 93.
+
+
+Package natbib Warning: Citation `kokkonen2025metric' on page 4 undefined on in
+put line 97.
+
+
+Package natbib Warning: Citation `cover1967nearest' on page 4 undefined on inpu
+t line 105.
+
+
+Package natbib Warning: Citation `xing2002distance' on page 4 undefined on inpu
+t line 105.
+
+
+Package natbib Warning: Citation `xu2025deep' on page 4 undefined on input line
+ 111.
+
+
+Package natbib Warning: Citation `gruffaz2025riemannian' on page 4 undefined on
+ input line 113.
+
+
+Package natbib Warning: Citation `hu2025broad' on page 4 undefined on input lin
+e 115.
+
+
+Package natbib Warning: Citation `weinberger2009distance' on page 4 undefined o
+n input line 119.
+
+
+Package natbib Warning: Citation `goldberger2005neighbourhood' on page 4 undefi
+ned on input line 127.
+
+
+Package natbib Warning: Citation `pan2025metric' on page 4 undefined on input l
+ine 139.
+
+
+Package natbib Warning: Citation `duan2025discriminative' on page 4 undefined o
+n input line 141.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 \begin{figure}[htbp]
+                          
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<manifold_learning_comparison.pdf, id=135, 1144.86595pt x 855.69437pt>
+File: manifold_learning_comparison.pdf Graphic file (type pdf)
+<use manifold_learning_comparison.pdf>
+Package pdftex.def Info: manifold_learning_comparison.pdf  used on input line 1
+47.
+(pdftex.def)             Requested size: 345.0pt x 257.85928pt.
+
+Package natbib Warning: Citation `jolliffe2002principal' on page 4 undefined on
+ input line 154.
+
+
+Package natbib Warning: Citation `belhumeur1997eigenfaces' on page 4 undefined 
+on input line 156.
+
+
+Package natbib Warning: Citation `roweis2000nonlinear' on page 4 undefined on i
+nput line 164.
+
+
+Package natbib Warning: Citation `tenenbaum2000global' on page 4 undefined on i
+nput line 172.
+
+
+Package natbib Warning: Citation `shang2024few' on page 4 undefined on input li
+ne 174.
+
+
+Package natbib Warning: Citation `he2009learning' on page 4 undefined on input 
+line 178.
+
+
+Package natbib Warning: Citation `bs2025distance' on page 4 undefined on input 
+line 180.
+
+
+Package natbib Warning: Citation `kokkonen2025metric' on page 4 undefined on in
+put line 182.
+
+
+LaTeX Warning: Reference `fig:bdml_flowchart' on page 4 undefined on input line
+ 199.
+
+
+Package natbib Warning: Citation `bs2025distance' on page 4 undefined on input 
+line 223.
+
+
+Package natbib Warning: Citation `gruffaz2025riemannian' on page 4 undefined on
+ input line 245.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.248 \caption
+              {Balanced Distance Metric Learning with Manifold Learning Ense...
+
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (74.96295pt too wide) in paragraph at lines 260--261
+[] []\OT1/cmr/m/n/10 Compute gra-di-ent: $\OMS/cmsy/m/n/10 r[]\OML/cmm/m/it/10 
+L \OT1/cmr/m/n/10 = [][] [] +
+ []
+
+
+Package natbib Warning: Citation `weinberger2009distance' on page 4 undefined o
+n input line 291.
+
+
+Package natbib Warning: Citation `goldberger2005neighbourhood' on page 4 undefi
+ned on input line 292.
+
+
+Package natbib Warning: Citation `xu2025deep' on page 4 undefined on input line
+ 293.
+
+
+Package natbib Warning: Citation `gruffaz2025riemannian' on page 4 undefined on
+ input line 294.
+
+
+Package natbib Warning: Citation `hu2025broad' on page 4 undefined on input lin
+e 295.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 \begin{figure}[htbp]
+                          
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<performance_heatmap.pdf, id=136, 804.08817pt x 566.43694pt>
+File: performance_heatmap.pdf Graphic file (type pdf)
+<use performance_heatmap.pdf>
+Package pdftex.def Info: performance_heatmap.pdf  used on input line 315.
+(pdftex.def)             Requested size: 345.0pt x 243.0359pt.
+
+LaTeX Warning: Reference `fig:performance_heatmap' on page 4 undefined on input
+ line 322.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 \begin{figure}[htbp]
+                          
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<imbalanced_data_handling.pdf, id=137, 1289.40031pt x 855.73265pt>
+File: imbalanced_data_handling.pdf Graphic file (type pdf)
+<use imbalanced_data_handling.pdf>
+Package pdftex.def Info: imbalanced_data_handling.pdf  used on input line 340.
+(pdftex.def)             Requested size: 345.0pt x 228.96172pt.
+
+LaTeX Warning: Reference `fig:imbalanced_handling' on page 4 undefined on input
+ line 345.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 \begin{figure}[htbp]
+                          
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<computational_complexity.pdf, id=138, 1073.71819pt x 422.01852pt>
+File: computational_complexity.pdf Graphic file (type pdf)
+<use computational_complexity.pdf>
+Package pdftex.def Info: computational_complexity.pdf  used on input line 357.
+(pdftex.def)             Requested size: 345.0pt x 135.60248pt.
+
+LaTeX Warning: Reference `fig:computational_complexity' on page 4 undefined on 
+input line 362.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.392 \begin{table}[htbp]
+                         
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (19.83408pt too wide) in paragraph at lines 396--406
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `tab:ablation' on page 4 undefined on input line 408.
+
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 \begin{table}[htbp]
+                         
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package natbib Warning: Citation `xu2025deep' on page 4 undefined on input line
+ 422.
+
+
+Package natbib Warning: Citation `gruffaz2025riemannian' on page 4 undefined on
+ input line 423.
+
+
+Package natbib Warning: Citation `hu2025broad' on page 4 undefined on input lin
+e 424.
+
+
+Package natbib Warning: Citation `duan2025discriminative' on page 4 undefined o
+n input line 425.
+
+
+Package natbib Warning: Citation `pan2025metric' on page 4 undefined on input l
+ine 426.
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 448--449
+[]\OT1/cmr/m/n/10 Local struc-ture preser-va-tion (LLE, Lapla-cian Eigen-maps) 
+for
+ []
+
+
+Package natbib Warning: There were undefined citations.
+
+
+! LaTeX Error: \begin{figure} on input line 59 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.627 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./dml_paper_enhanced_2025.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+! You can't use `\end' in internal vertical mode.
+\enddocument ...cument/end}\deadcycles \z@ \@@end 
+                                                  
+l.627 \end{document}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{figure} on input line 59 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.627 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.627 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> dml_paper_enhanced_2025.tex
+                               
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 6110 strings out of 474222
+ 98007 string characters out of 5748734
+ 1975975 words of memory out of 5000000
+ 28291 multiletter control sequences out of 15000+600000
+ 564856 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,10n,79p,2190b,719s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

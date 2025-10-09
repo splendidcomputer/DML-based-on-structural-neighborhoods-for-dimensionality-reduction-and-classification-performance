@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.8)  8 OCT 2025 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.8)  9 OCT 2025 12:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**dml_paper_elsevier.tex
-(./dml_paper_elsevier.tex
+**dml_paper_enhanced_final.tex
+(./dml_paper_enhanced_final.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/elsarticle/elsarticle.cls
@@ -86,6 +86,7 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \@sep=\skip50
 \@@sep=\skip51
 
+(./dml_paper_enhanced_final.spl)
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip52
@@ -94,7 +95,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count269
 )
 \splwrite=\write3
-\openout3 = `dml_paper_elsevier.spl'.
+\openout3 = `dml_paper_enhanced_final.spl'.
 
 \appnamewidth=\dimen147
 )
@@ -460,27 +461,28 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip66
 \algorithmicindent=\skip67
 )
-No file dml_paper_elsevier.aux.
-\openout1 = `dml_paper_elsevier.aux'.
+(./dml_paper_enhanced_final.aux)
+\openout1 = `dml_paper_enhanced_final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count321
@@ -503,263 +505,144 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 22.
+
+(./dml_paper_enhanced_final.out) (./dml_paper_enhanced_final.out)
 \@outlinefile=\write4
-\openout4 = `dml_paper_elsevier.out'.
+\openout4 = `dml_paper_enhanced_final.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (34.4302pt too wide) has occurred while \output is active
+\OT1/cmr/m/it/8 Preprint submitted to IEEE Transactions on Pattern Analysis and
+ Machine Intelligence October 9, 2025
+ []
+
+
 Overfull \hbox (2.22221pt too wide) has occurred while \output is active
 [] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 56.
+(hyperref)                removing `\<def>-command' on input line 42.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 56.
+(hyperref)                removing `\cnotenum' on input line 42.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 56.
+(hyperref)                removing `\<def>-command' on input line 42.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 56.
+(hyperref)                removing `\@corref' on input line 42.
 
 [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `bellman1961adaptive' on page 2 undefined on i
-nput line 63.
-
-
-Package natbib Warning: Citation `hughes1968mean' on page 2 undefined on input 
-line 63.
-
-
-Package natbib Warning: Citation `kulis2012metric' on page 2 undefined on input
- line 63.
-
-
-Package natbib Warning: Citation `yang2006distance' on page 2 undefined on inpu
-t line 63.
-
-
-Overfull \hbox (4.36176pt too wide) in paragraph at lines 63--64
-\OT1/cmr/m/n/10 learn-ing, par-tic-u-larly in clas-si-fi-ca-tion tasks where hi
-gh-dimensional fea-ture spaces
- []
-
-
-Package natbib Warning: Citation `beyer1999nearest' on page 2 undefined on inpu
-t line 65.
-
-
-Package natbib Warning: Citation `tenenbaum2000global' on page 2 undefined on i
-nput line 67.
-
-
-Package natbib Warning: Citation `roweis2000nonlinear' on page 2 undefined on i
-nput line 67.
-
-[2] [3{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-
-LaTeX Warning: Reference `sec:related' on page 4 undefined on input line 99.
-
-
-LaTeX Warning: Reference `sec:methodology' on page 4 undefined on input line 99
+<bdml_mle_improved_flowchart.pdf, id=99, 860.01299pt x 1149.09305pt>
+File: bdml_mle_improved_flowchart.pdf Graphic file (type pdf)
+<use bdml_mle_improved_flowchart.pdf>
+Package pdftex.def Info: bdml_mle_improved_flowchart.pdf  used on input line 56
 .
-
-
-LaTeX Warning: Reference `sec:experimental' on page 4 undefined on input line 9
-9.
-
-
-LaTeX Warning: Reference `sec:results' on page 4 undefined on input line 99.
-
-
-LaTeX Warning: Reference `sec:discussion' on page 4 undefined on input line 99.
-
-
-
-LaTeX Warning: Reference `sec:conclusion' on page 4 undefined on input line 99.
-
-
-
-Package natbib Warning: Citation `xing2002distance' on page 4 undefined on inpu
-t line 106.
-
-
-Package natbib Warning: Citation `weinberger2009distance' on page 4 undefined o
-n input line 108.
-
-
-Overfull \hbox (0.5515pt too wide) in paragraph at lines 108--109
-[]\OT1/cmr/m/n/10 Weinberger and Saul [\OT1/cmr/bx/n/10 ? \OT1/cmr/m/n/10 ] pro
--posed Large Mar-gin Near-est Neigh-bor (LMNN),
+(pdftex.def)             Requested size: 345.0pt x 460.96164pt.
+ [2] [3 <./bdml_mle_improved_flowchart.pdf>] [4] [5]
+Overfull \hbox (0.5283pt too wide) in paragraph at lines 107--108
+[]\OT1/cmr/m/n/10 The bal-anced ob-jec-tive func-tion in-cor-po-rates re-cent a
+d-vances in met-ric learn-
  []
 
-
-Package natbib Warning: Citation `davis2007information' on page 4 undefined on 
-input line 110.
-
-
-Package natbib Warning: Citation `schroff2015facenet' on page 4 undefined on in
-put line 112.
-
-
-Package natbib Warning: Citation `hermans2017defense' on page 4 undefined on in
-put line 112.
-
-
-Package natbib Warning: Citation `jolliffe2002principal' on page 4 undefined on
- input line 116.
-
-
-Package natbib Warning: Citation `fisher1936use' on page 4 undefined on input l
-ine 116.
-
-[4]
-
-Package natbib Warning: Citation `tenenbaum2000global' on page 5 undefined on i
-nput line 118.
-
-
-Package natbib Warning: Citation `roweis2000nonlinear' on page 5 undefined on i
-nput line 118.
-
-
-Package natbib Warning: Citation `scholkopf1998nonlinear' on page 5 undefined o
-n input line 120.
-
-
-Package natbib Warning: Citation `hinton2006reducing' on page 5 undefined on in
-put line 122.
-
-
-Package natbib Warning: Citation `kingma2013auto' on page 5 undefined on input 
-line 122.
-
-
-Package natbib Warning: Citation `goldberger2004neighbourhood' on page 5 undefi
-ned on input line 126.
-
-
-Package natbib Warning: Citation `yang2006distance' on page 5 undefined on inpu
-t line 128.
-
-
-Package natbib Warning: Citation `villegas2018comprehensive' on page 5 undefine
-d on input line 128.
-
-[5]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 148.
- [6] [7] [8] [9]
-Overfull \hbox (5.8616pt too wide) in paragraph at lines 260--261
-[]\OT1/cmr/m/n/10 The clas-sic iris flower dataset con-tains 150 sam-ples with 
-4 fea-tures (sepal/petal
- []
-
-
-Overfull \hbox (2.43565pt too wide) in paragraph at lines 263--264
-\OT1/cmr/m/n/10 sis fea-tures across 3 wine classes. This dataset rep-re-sents 
-a moderate-dimensional
- []
-
-
-LaTeX Warning: Reference `tab:datasets' on page 10 undefined on input line 271.
-
-
-[10]
-Overfull \hbox (1.9751pt too wide) in paragraph at lines 311--312
-[]\OT1/cmr/bx/n/10 Processing Time\OT1/cmr/m/n/10 : Com-pu-ta-tional time for t
-rain-ing and pre-dic-tion phases 
- []
-
-
-Overfull \hbox (6.13948pt too wide) in paragraph at lines 314--315
-[]\OT1/cmr/m/n/10 For multi-class prob-lems, sen-si-tiv-ity and speci-ficity ar
-e com-puted us-ing macro-
- []
-
-[11]
-
-LaTeX Warning: Reference `tab:top_results' on page 12 undefined on input line 3
-39.
-
-
-Overfull \hbox (43.29987pt too wide) in paragraph at lines 346--362
+put line 120.
+[6]
+<performance_heatmap.pdf, id=316, 804.08817pt x 566.43694pt>
+File: performance_heatmap.pdf Graphic file (type pdf)
+<use performance_heatmap.pdf>
+Package pdftex.def Info: performance_heatmap.pdf  used on input line 163.
+(pdftex.def)             Requested size: 345.0pt x 243.0359pt.
+<imbalanced_data_handling.pdf, id=318, 1289.40031pt x 855.73265pt>
+File: imbalanced_data_handling.pdf Graphic file (type pdf)
+<use imbalanced_data_handling.pdf>
+Package pdftex.def Info: imbalanced_data_handling.pdf  used on input line 176.
+(pdftex.def)             Requested size: 345.0pt x 228.96172pt.
+ [7{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [8 <./performa
+nce_heatmap.pdf>]
+<computational_complexity.pdf, id=416, 1073.71819pt x 422.01852pt>
+File: computational_complexity.pdf Graphic file (type pdf)
+<use computational_complexity.pdf>
+Package pdftex.def Info: computational_complexity.pdf  used on input line 187.
+(pdftex.def)             Requested size: 345.0pt x 135.60248pt.
+ [9 <./imbalanced_data_handling.pdf>] [10 <./computational_complexity.pdf>]
+Overfull \hbox (21.45891pt too wide) in paragraph at lines 223--238
  [][] 
  []
 
-[12]
 
-LaTeX Warning: Reference `tab:dr_rankings' on page 13 undefined on input line 3
-81.
-
-[13]
-Overfull \hbox (19.4492pt too wide) in paragraph at lines 406--407
- []\OT1/cmr/m/it/10 Linear Dis-crim-i-nant Anal-y-sis (LDA).[] \OT1/cmr/m/n/10 
-shows con-sis-tent per-for-mance across datasets,
+Overfull \hbox (5.70953pt too wide) in paragraph at lines 247--248
+[]\OT1/cmr/bx/n/10 Robust Per-for-mance\OT1/cmr/m/n/10 : The method shows con-s
+is-tent im-prove-ments across
  []
 
+[11] [12]
+Overfull \hbox (3.4162pt too wide) in paragraph at lines 289--290
+\OT1/cmr/m/n/10 strates that BDML-MLE con-sis-tently out-per-forms state-of-the
+-art meth-ods while
+ []
 
-LaTeX Warning: Reference `fig:classifier_comparison' on page 14 undefined on in
-put line 410.
-
-
-LaTeX Warning: File `../python/results/plots/classifier_comparison.svg' not fou
-nd on input line 414.
-
-
-! LaTeX Error: Unknown graphics extension: .svg.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.414 .../results/plots/classifier_comparison.svg}
-                                                  
-? python3 convert_svg_to_pdf.py
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.414 .../results/plots/classifier_comparison.svg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
- 
+[13] [14] [15] [16] (./dml_paper_enhanced_final.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+Package rerunfilecheck Info: File `dml_paper_enhanced_final.out' has not change
+d.
+(rerunfilecheck)             Checksum: DCF71E458E70BC4891A588B4573F3B38;3162.
+ ) 
 Here is how much of TeX's memory you used:
- 12928 strings out of 474222
- 203680 string characters out of 5748734
- 1937975 words of memory out of 5000000
- 34912 multiletter control sequences out of 15000+600000
- 567605 words of font info for 71 fonts, out of 8000000 for 9000
+ 13029 strings out of 474222
+ 205612 string characters out of 5748734
+ 1935975 words of memory out of 5000000
+ 35004 multiletter control sequences out of 15000+600000
+ 565943 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,79p,1800b,633s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 72i,9n,79p,1451b,633s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfrm1000.pfb>
+Output written on dml_paper_enhanced_final.pdf (16 pages, 472700 bytes).
+PDF statistics:
+ 779 PDF objects out of 1000 (max. 8388607)
+ 364 compressed objects within 4 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
+
